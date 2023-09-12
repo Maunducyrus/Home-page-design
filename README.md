@@ -10,7 +10,7 @@ As an advocate for clean and intuitive design, I thrive on transforming ideas in
 
 - 🌱 I’m currently learning **JavaScript and Bootstrap.**
 
-- 👨🏻‍💻 Most of my projects are available on <a href="https://github.com/Juvenilenapuu">Github</a>.
+- 👨🏻‍💻 Most of my projects are available on <a href="https://github.com/Maunducyrus">Github</a>.
 
 - 👨‍💻 Love to learn **New Technologies** and to explore new set of ideas.
 
